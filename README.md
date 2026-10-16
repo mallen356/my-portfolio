@@ -1,1 +1,1 @@
-# my-portfolio
+# my-portfolio utilizing CSS and JavaScript.
